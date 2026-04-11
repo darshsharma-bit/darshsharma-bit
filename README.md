@@ -1,71 +1,63 @@
-<!-- Sexy GitHub Profile README for Darsh Sharma -->
+# Darsh Sharma
+### BTech CSE Student | Agentic AI Systems Builder
 
-<h1 align="center">✨ Hi, I'm <a href="https://www.linkedin.com/in/darsh-sharma-7b3169361">Darsh Sharma</a> 👋</h1>
-<h3 align="center">🚀 CS Student @ BML Munjal University | Building Real-World Projects & Coding Gigs</h3>
+> "Building systems where AI doesn’t just respond — it thinks, plans, and executes."
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=14&duration=2000&pause=800&color=00FF00&center=true&vCenter=true&width=600&lines=CS+Student+%7C+Developer+%7C+Designer;Learning+C%2C+C%2B%2B%2C+Python;UI%2FUX+Designer+(Figma);Game+Dev+%7C+AI+%26+ML;Problem+Solver+%7C+Innovator" alt="Pixel Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=2000&pause=800&color=00FFCC&center=true&vCenter=true&width=700&lines=Agentic+AI+Systems;Token+Optimization+Engine+(TOE);Multi-Agent+Architectures;Autonomous+AI+Workflows;IoT+%26+Embedded+Systems" />
 </p>
 
 ---
 
-## 🚀 About Me  
-- 🎓 Pursuing **Computer Science @ BML Munjal University**  
-- 💻 Working on **real-world projects & coding gigs**  
-- 🌱 Currently learning: **C, C++, Python**  
-- 🎨 Skilled in **UI/UX (Figma)**  
-- 🧠 Interests: **Game Development | AI & ML | Problem Solving | Agentic AI**  
+### ⚡ Technical Overview
+- **Agentic Architectures:** Designing autonomous multi-agent workflows that decompose complex tasks into executable plans.
+- **Efficiency Engineering:** Developing the **Token Optimization Engine (TOE)** for prompt compression and high-throughput AI communication.
+- **Embedded Intelligence:** Engineering sensor-driven IoT systems with C++ and Arduino, bridging hardware with intelligent logic.
+- **Execution-First Mindset:** Focused on building scalable, real-world systems rather than theoretical prototypes.
 
 ---
 
-## 🔥 Featured Projects  
-🔹 🚢 [**LynX – AI + IoT Based Safe Navigation System**](#)  
-🔹 🎨 [**UI/UX Figma to MERN Conversion**](#)  
-🔹 ⚡ [**Circuit Prototypes & IoT Experiments**](#)  
+### 🛠️ Core Projects
+
+#### [Token Optimization Engine (TOE)](https://github.com/darshsharma-bit/Token-Optimization-Engine)
+*AI Efficiency & Prompt Engineering*
+- Developed a high-performance engine for prompt compression and multi-model alignment.
+- Optimized token usage to reduce LLM latency and operational costs while maintaining semantic integrity.
+
+#### [Agentic AI Systems (AGENTIC_OS)](https://github.com/darshsharma-bit/AGENTIC_OS)
+*Multi-Agent Workflows & Autonomy*
+- Architected a modular framework for autonomous AI agents capable of planning and executing multi-step tasks.
+- Implemented intelligent routing and state management for complex agent interactions.
+
+#### [Sensor-Driven IoT Systems](#)
+*Embedded Systems & Robotics*
+- Built intelligent navigation and monitoring systems using Arduino and C++.
+- Integrated real-time sensor data with decision-making logic for hardware-level autonomy.
 
 ---
 
-## 🛠️ Skills & Tools  
-<p align="center">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-004488?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Cursor%20AI-000000?style=for-the-badge&logo=ai&logoColor=white"/>
+### 🏗️ Tech Stack & Domains
+
+- **Languages:** Python, C++
+- **Core Domains:** Agentic AI, System Design, Prompt Engineering, Embedded Systems (IoT)
+- **Specializations:** Multi-agent architectures, Token optimization, Autonomous workflows
+
+---
+
+### 🔭 Current Focus
+
+- **Scalable Autonomy:** Engineering robust frameworks for large-scale multi-agent deployments.
+- **Prompt Compression:** Refining heuristic and semantic methods for token-efficient AI communication.
+- **Hardware Agnosticism:** Extending intelligent control systems to diverse embedded platforms.
+
+---
+
+### 📊 Vital Signs
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=darshsharma-bit&show_icons=true&theme=transparent&hide_border=true&title_color=58a6ff&text_color=adbac7&icon_color=58a6ff&bg_color=0D1117" alt="Darsh's Stats" height="150" />
 </p>
 
 ---
 
-## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=darshsharma-bit&show_icons=true&theme=radical&count_private=true" alt="stats" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=darshsharma-bit&theme=radical" alt="streak" height="180"/>
-</p>
-
----
-
-## 📈 Activity Graph  
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=darshsharma-bit&bg_color=0d1117&color=00ffcc&line=00ffcc&point=ffffff&area=true&hide_border=true" alt="activity graph"/>
-</p>
-
----
-
-## 🌐 Connect With Me  
-<p align="center">
-  <a href="https://www.linkedin.com/in/darsh-sharma-7b3169361"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://www.instagram.com/darsh._sharma?igsh=azU5dng2N2IxNTd3"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="mailto:darsh1may.0@gmaol.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=darshsharma-bit&style=for-the-badge&color=blue" alt="Profile Views"/>
-</p>
-
----
-
-<h3 align="center">⭐️ “Code. Create. Innovate.” ⭐️</h3>
+**Architecting the next generation of autonomous intelligence.**
