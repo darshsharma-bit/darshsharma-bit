@@ -14,7 +14,7 @@
 - 💻 Working on **real-world projects & coding gigs**  
 - 🌱 Currently learning: **C, C++, Python**  
 - 🎨 Skilled in **UI/UX (Figma)**  
-- 🧠 Interests: **Game Development | AI & ML | Problem Solving**  
+- 🧠 Interests: **Game Development | AI & ML | Problem Solving | Agentic AI**  
 
 ---
 
