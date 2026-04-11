@@ -54,8 +54,8 @@
 
 ### 📊 Vital Signs
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=darshsharma-bit&show_icons=true&theme=transparent&hide_border=true&title_color=58a6ff&text_color=adbac7&icon_color=58a6ff&bg_color=0D1117" alt="Darsh's Stats" height="150" />
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=darshsharma-bit&bg_color=0d1117&color=00ffcc&line=00ffcc&point=ffffff&area=true&hide_border=true" />
 </p>
 
 ---
