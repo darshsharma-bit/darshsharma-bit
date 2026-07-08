@@ -1,109 +1,240 @@
 <div align="center">
 
 ```
-                                                  
-_|_|_|      _|_|    _|_|_|      _|_|_|  _|    _|  
-_|    _|  _|    _|  _|    _|  _|        _|    _|  
-_|    _|  _|_|_|_|  _|_|_|      _|_|    _|_|_|_|  
-_|    _|  _|    _|  _|    _|        _|  _|    _|  
-_|_|_|    _|    _|  _|    _|  _|_|_|    _|    _|  
-                                                  
+╔══════════════════════════════════════════════════════════════════════╗
+║                                                                        ║
+║   ██████╗  █████╗ ██████╗ ███████╗██╗  ██╗                           ║
+║   ██╔══██╗██╔══██╗██╔══██╗██╔════╝██║  ██║                           ║
+║   ██║  ██║███████║██████╔╝███████╗███████║                           ║
+║   ██║  ██║██╔══██║██╔══██╗╚════██║██╔══██║                           ║
+║   ██████╔╝██║  ██║██║  ██║███████║██║  ██║                           ║
+║   ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝                           ║
+║                                                                        ║
+║   S H A R M A   —   A G E N T I C   A I   S Y S T E M S   B U I L D   ║
+║                                                                        ║
+╚══════════════════════════════════════════════════════════════════════╝
 ```
 
-`~/darsh` — booting agentic runtime... `████████████████████` **100%**
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=2000&pause=800&color=00FFCC&center=true&vCenter=true&width=700&lines=%3E+initializing+agentic_core...;%3E+loading+neural_planner.py+%5BOK%5D;%3E+Token+Optimization+Engine+(TOE)+online;%3E+Multi-Agent+Architectures+compiled;%3E+status%3A+building+the+future" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=2000&pause=800&color=00FFCC&center=true&vCenter=true&width=700&lines=Agentic+AI+Systems;Token+Optimization+Engine+(TOE);Multi-Agent+Architectures;Autonomous+AI+Workflows;IoT+%26+Embedded+Systems" />
+<br/>
 
-<p>
-  <a href="#"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/PORTFOLIO-000000?style=flat-square&logo=triangle&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/GMAIL-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/LEETCODE-FFA116?style=flat-square&logo=leetcode&logoColor=black" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/GITHUB-181717?style=flat-square&logo=github&logoColor=white" /></a>
-</p>
+[![GitHub](https://img.shields.io/badge/GitHub-darshsharma--bit-00FFCC?style=flat-square&logo=github&logoColor=black&labelColor=0d1117)](https://github.com/darshsharma-bit)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-00FFCC?style=flat-square&logo=linkedin&logoColor=black&labelColor=0d1117)](#)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00FFCC?style=flat-square&logo=vercel&logoColor=black&labelColor=0d1117)](#)
+[![Gmail](https://img.shields.io/badge/Gmail-Message-00FFCC?style=flat-square&logo=gmail&logoColor=black&labelColor=0d1117)](#)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Solve-00FFCC?style=flat-square&logo=leetcode&logoColor=black&labelColor=0d1117)](#)
 
 </div>
 
-<br>
+<br/>
 
 ```bash
-darsh@systems:~$ whoami
+darsh@systems:~$ whoami --verbose
 ```
-> **BTech CSE Student** — Agentic AI Systems Builder
+
+> **BTech CSE Student · Agentic AI Systems Builder**
+>
 > *"Building systems where AI doesn't just respond — it thinks, plans, and executes."*
 
-<br>
+<br/>
 
-```bash
-darsh@systems:~$ cat overview.log
-```
-
-- **[agentic_architectures]** designing autonomous multi-agent workflows that decompose complex tasks into executable plans
-- **[efficiency_engineering]** building the **Token Optimization Engine (TOE)** for prompt compression + high-throughput AI comms
-- **[embedded_intelligence]** engineering sensor-driven IoT systems in C++/Arduino, bridging hardware with intelligent logic
-- **[execution_first]** shipping scalable real-world systems over theoretical prototypes
-
-<br>
-
-```bash
-darsh@systems:~$ ls ./projects --core
-```
-
-**`[01]` [Token Optimization Engine (TOE)](https://github.com/darshsharma-bit/Token-Optimization-Engine)**
-`AI Efficiency · Prompt Engineering`
-- high-performance engine for prompt compression and multi-model alignment
-- reduced LLM latency & operational cost while preserving semantic integrity
-
-**`[02]` [Agentic AI Systems (AGENTIC_OS)](https://github.com/darshsharma-bit/AGENTIC_OS)**
-`Multi-Agent Workflows · Autonomy`
-- modular framework for autonomous AI agents that plan and execute multi-step tasks
-- intelligent routing + state management across complex agent interactions
-
-**`[03]` Sensor-Driven IoT Systems**
-`Embedded Systems · Robotics`
-- intelligent navigation/monitoring systems built on Arduino + C++
-- real-time sensor data fused with decision-making logic for hardware-level autonomy
-
-<br>
-
-```bash
-darsh@systems:~$ cat stack.json
-```
-
-```json
-{
-  "languages": ["Python", "C++"],
-  "domains": ["Agentic AI", "System Design", "Prompt Engineering", "Embedded Systems (IoT)"],
-  "specializations": ["Multi-agent architectures", "Token optimization", "Autonomous workflows"]
-}
-```
-
-<br>
-
-```bash
-darsh@systems:~$ tail -f current_focus.log
-```
-
-- `[scalable_autonomy]` engineering robust frameworks for large-scale multi-agent deployments
-- `[prompt_compression]` refining heuristic + semantic methods for token-efficient AI communication
-- `[hardware_agnosticism]` extending intelligent control systems to diverse embedded platforms
-
-<br>
-
-```bash
-darsh@systems:~$ ./vitals --render
-```
+---
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=darshsharma-bit&bg_color=0d1117&color=00ffcc&line=00ffcc&point=ffffff&area=true&hide_border=true" />
+
+### `[ SYSTEM BOOT SEQUENCE ]`
+
 </div>
 
-<br>
+```console
+darsh@systems:~$ ./boot_agent.sh
+
+[00:00:01] Loading kernel modules ......................... [ OK ]
+[00:00:02] Mounting agentic_core/                          [ OK ]
+[00:00:03] Spinning up multi-agent orchestrator ............ [ OK ]
+[00:00:04] Compressing prompts via TOE .................... [ 94% ]
+[00:00:05] Linking IoT sensor drivers ..................... [ OK ]
+[00:00:06] Calibrating autonomy thresholds ................ [ DONE ]
+
+>> SYSTEM READY. Awaiting task decomposition...
+>> _
+```
+
+---
 
 <div align="center">
 
-`[ status: online ]` `[ mode: autonomous ]` `[ latency: optimized ]`
+### `[ NEOFETCH ]`
 
-**Architecting the next generation of autonomous intelligence.**
+</div>
+
+```
+┌─────────────────────────┐   darsh@systems
+│         ▄▄▄▄▄▄▄         │   ─────────────────────────
+│       ▄█████████▄       │   OS:        Agentic_OS v2.1
+│      ██▀▀     ▀▀██      │   Host:      BTech CSE · India
+│      ██   ▄▄▄   ██      │   Kernel:    multi-agent-planner
+│      ██   ███   ██      │   Uptime:    building since day 1
+│      ██▄▄     ▄▄██      │   Shell:     python3 / g++
+│       ▀█████████▀       │   Editor:    VS Code + Claude Code
+│         ▀▀▀▀▀▀▀         │   Focus:     Autonomous AI Workflows
+└─────────────────────────┘   Status:    ● online, always shipping
+```
+
+---
+
+<div align="center">
+
+### `[ TECHNICAL OVERVIEW ]`
+
+</div>
+
+```yaml
+agentic_architectures:
+  description: "Designing autonomous multi-agent workflows that decompose
+                complex tasks into executable plans."
+  status: active
+
+efficiency_engineering:
+  description: "Developing the Token Optimization Engine (TOE) for prompt
+                compression and high-throughput AI communication."
+  status: active
+
+embedded_intelligence:
+  description: "Engineering sensor-driven IoT systems with C++ and Arduino,
+                bridging hardware with intelligent logic."
+  status: active
+
+execution_first_mindset:
+  description: "Focused on building scalable, real-world systems rather
+                than theoretical prototypes."
+  status: always_on
+```
+
+---
+
+<div align="center">
+
+### `[ CORE PROJECTS ]`
+
+</div>
+
+**`[01]` [Token Optimization Engine (TOE)](https://github.com/darshsharma-bit/Token-Optimization-Engine)**
+`# AI Efficiency & Prompt Engineering`
+```diff
++ Developed a high-performance engine for prompt compression and multi-model alignment
++ Optimized token usage to reduce LLM latency and operational costs while preserving semantic integrity
+```
+
+**`[02]` [Agentic AI Systems (AGENTIC_OS)](https://github.com/darshsharma-bit/AGENTIC_OS)**
+`# Multi-Agent Workflows & Autonomy`
+```diff
++ Architected a modular framework for autonomous AI agents that plan and execute multi-step tasks
++ Implemented intelligent routing and state management for complex agent interactions
+```
+
+**`[03]` Sensor-Driven IoT Systems**
+`# Embedded Systems & Robotics`
+```diff
++ Built intelligent navigation and monitoring systems using Arduino and C++
++ Integrated real-time sensor data with decision-making logic for hardware-level autonomy
+```
+
+---
+
+<div align="center">
+
+### `[ SKILL MATRIX ]`
+
+</div>
+
+```
+Python            ████████████████████░░░░  82%
+C++               ████████████████░░░░░░░░  68%
+Agentic Design     ██████████████████████░░  90%
+Prompt Engineering ████████████████████░░░░  85%
+Embedded Systems   ██████████████░░░░░░░░░░  60%
+System Design      ██████████████████░░░░░░  75%
+```
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/-Python-0d1117?style=flat-square&logo=python&logoColor=00FFCC)
+![C++](https://img.shields.io/badge/-C++-0d1117?style=flat-square&logo=cplusplus&logoColor=00FFCC)
+![Arduino](https://img.shields.io/badge/-Arduino-0d1117?style=flat-square&logo=arduino&logoColor=00FFCC)
+![Git](https://img.shields.io/badge/-Git-0d1117?style=flat-square&logo=git&logoColor=00FFCC)
+![Linux](https://img.shields.io/badge/-Linux-0d1117?style=flat-square&logo=linux&logoColor=00FFCC)
+
+</div>
+
+---
+
+<div align="center">
+
+### `[ CURRENT FOCUS ]`
+
+</div>
+
+```console
+darsh@systems:~$ cat current_focus.log
+
+[FOCUS 1] Scalable Autonomy
+          → Engineering robust frameworks for large-scale multi-agent deployments.
+
+[FOCUS 2] Prompt Compression
+          → Refining heuristic and semantic methods for token-efficient AI communication.
+
+[FOCUS 3] Hardware Agnosticism
+          → Extending intelligent control systems to diverse embedded platforms.
+```
+
+---
+
+<div align="center">
+
+### `[ VITAL SIGNS ]`
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=darshsharma-bit&bg_color=0d1117&color=00ffcc&line=00ffcc&point=ffffff&area=true&hide_border=true" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=darshsharma-bit&show_icons=true&theme=dark&bg_color=0d1117&title_color=00ffcc&icon_color=00ffcc&text_color=c9d1d9&border_color=00ffcc&hide_border=false" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=darshsharma-bit&background=0d1117&border=00ffcc&stroke=00ffcc&ring=00ffcc&fire=00ffcc&currStreakLabel=00ffcc" />
+
+</div>
+
+---
+
+<details>
+<summary><code>&gt;&gt; click to decrypt hidden log_</code></summary>
+
+<br/>
+
+```console
+darsh@systems:~$ sudo cat /var/log/easter_egg.log
+
+[ACCESS GRANTED]
+You found the hidden terminal. Most recruiters stop scrolling at the badges —
+you didn't. That curiosity is basically the whole job description.
+
+fun_fact: this README was assembled the same way I build agents —
+          plan the structure, execute section by section, verify the output.
+
+darsh@systems:~$ echo "thanks for reading this far"
+thanks for reading this far
+darsh@systems:~$ _
+```
+
+</details>
+
+---
+
+<div align="center">
+
+```
+> Architecting the next generation of autonomous intelligence.
+```
+
+**`[ EOF ]`**
 
 </div>
