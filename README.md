@@ -19,11 +19,9 @@
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-darshsharma--bit-00FFCC?style=flat-square&logo=github&logoColor=black&labelColor=0d1117)](https://github.com/darshsharma-bit)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-00FFCC?style=flat-square&logo=linkedin&logoColor=black&labelColor=0d1117)](#)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00FFCC?style=flat-square&logo=vercel&logoColor=black&labelColor=0d1117)](#)
-[![Gmail](https://img.shields.io/badge/Gmail-Message-00FFCC?style=flat-square&logo=gmail&logoColor=black&labelColor=0d1117)](#)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Solve-00FFCC?style=flat-square&logo=leetcode&logoColor=black&labelColor=0d1117)](#)
+[![GitHub](https://img.shields.io/badge/GitHub-darshsharma--bit-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/darshsharma-bit)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/darsh-sharma-7b3169361)
+[![Gmail](https://img.shields.io/badge/Gmail-Message-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:darsh1may.0@gmail.com)
 
 </div>
 
