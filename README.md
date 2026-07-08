@@ -148,13 +148,21 @@ execution_first_mindset:
 </div>
 
 ```
-Python            ████████████████████░░░░  82%
-C++               ████████████████░░░░░░░░  68%
-Agentic Design     ██████████████████████░░  90%
-Prompt Engineering ████████████████████░░░░  85%
-Embedded Systems   ██████████████░░░░░░░░░░  60%
-System Design      ██████████████████░░░░░░  75%
+darsh@systems:~$ cat skill_matrix.log
 ```
+
+<div align="center">
+
+| `SKILL` | `LEVEL` | |
+|:---|:---:|:---|
+| **Python** | `82%` | ![](https://progress-bar.dev/82/?scale=100&width=280&color=00ffcc) |
+| **C++** | `68%` | ![](https://progress-bar.dev/68/?scale=100&width=280&color=00e0b8) |
+| **Agentic Design** | `90%` | ![](https://progress-bar.dev/90/?scale=100&width=280&color=00ffcc) |
+| **Prompt Engineering** | `85%` | ![](https://progress-bar.dev/85/?scale=100&width=280&color=00e0b8) |
+| **Embedded Systems** | `60%` | ![](https://progress-bar.dev/60/?scale=100&width=280&color=00b89c) |
+| **System Design** | `75%` | ![](https://progress-bar.dev/75/?scale=100&width=280&color=00ffcc) |
+
+</div>
 
 <div align="center">
 
