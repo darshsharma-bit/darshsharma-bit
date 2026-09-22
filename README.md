@@ -1,6 +1,7 @@
+```markdown id="4g7jr8"
 <div align="center">
 
-```
+```text
 ╔═══════════════════════════════════════════════════════════════════════════════════════════════════════════╗
 ║                                                                                                           ║
 ║  ██████╗   █████╗  ██████╗  ███████╗ ██╗  ██╗   ███████╗ ██╗  ██╗  █████╗  ██████╗  ███╗   ███╗  █████╗   ║
@@ -15,232 +16,353 @@
 ╚═══════════════════════════════════════════════════════════════════════════════════════════════════════════╝
 ```
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=2000&pause=800&color=00FFCC&center=true&vCenter=true&width=700&lines=%3E+initializing+agentic_core...;%3E+loading+neural_planner.py+%5BOK%5D;%3E+Token+Optimization+Engine+(TOE)+online;%3E+Multi-Agent+Architectures+compiled;%3E+status%3A+building+the+future" />
+### Building AI systems that plan, execute, and interact with real software.
 
-<br/>
+**B.Tech Computer Science & Engineering · BML Munjal University · India**
 
-[![GitHub](https://img.shields.io/badge/GitHub-darshsharma--bit-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/darshsharma-bit)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/darsh-sharma-7b3169361)
-[![Gmail](https://img.shields.io/badge/Gmail-Message-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:darsh1may.0@gmail.com)
+**Open to Software Engineering & AI/ML Internship Opportunities**
 
-</div>
+<br />
 
-<br/>
+<a href="<!-- TODO: add your resume URL -->">
+  <img src="https://img.shields.io/badge/Resume-View-0D1117?style=for-the-badge&logo=readthedocs&logoColor=00C7A7" alt="View resume" />
+</a>
+<a href="https://www.linkedin.com/in/darsh-sharma-7b3169361">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
+</a>
+<a href="mailto:darsh1may.0@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact Darsh Sharma" />
+</a>
 
-```bash
-darsh@systems:~$ whoami --verbose
-```
+<br />
 
-> **BTech CSE Student · Agentic AI Systems Builder**
->
-> *"Building systems where AI doesn't just respond — it thinks, plans, and executes."*
-
-<br/>
-
----
-
-<div align="center">
-
-### `[ SYSTEM BOOT SEQUENCE ]`
-
-</div>
-
-```console
-darsh@systems:~$ ./boot_agent.sh
-
-[00:00:01] Loading kernel modules ......................... [ OK ]
-[00:00:02] Mounting agentic_core/                          [ OK ]
-[00:00:03] Spinning up multi-agent orchestrator ............ [ OK ]
-[00:00:04] Compressing prompts via TOE .................... [ 94% ]
-[00:00:05] Linking IoT sensor drivers ..................... [ OK ]
-[00:00:06] Calibrating autonomy thresholds ................ [ DONE ]
-
->> SYSTEM READY. Awaiting task decomposition...
->> _
-```
-
----
-
-<div align="center">
-
-### `[ NEOFETCH ]`
-
-</div>
-
-```
-┌─────────────────────────┐   darsh@systems
-│         ▄▄▄▄▄▄▄         │   ─────────────────────────
-│       ▄█████████▄       │   OS:        Agentic_OS v2.1
-│      ██▀▀     ▀▀██      │   Host:      BTech CSE · India
-│      ██   ▄▄▄   ██      │   Kernel:    multi-agent-planner
-│      ██   ███   ██      │   Uptime:    building since day 1
-│      ██▄▄     ▄▄██      │   Shell:     python3 / g++
-│       ▀█████████▀       │   Editor:    VS Code + Claude Code
-│         ▀▀▀▀▀▀▀         │   Focus:     Autonomous AI Workflows
-└─────────────────────────┘   Status:    ● online, always shipping
-```
-
----
-
-<div align="center">
-
-### `[ TECHNICAL OVERVIEW ]`
-
-</div>
-
-```yaml
-agentic_architectures:
-  description: "Designing autonomous multi-agent workflows that decompose
-                complex tasks into executable plans."
-  status: active
-
-efficiency_engineering:
-  description: "Developing the Token Optimization Engine (TOE) for prompt
-                compression and high-throughput AI communication."
-  status: active
-
-embedded_intelligence:
-  description: "Engineering sensor-driven IoT systems with C++ and Arduino,
-                bridging hardware with intelligent logic."
-  status: active
-
-execution_first_mindset:
-  description: "Focused on building scalable, real-world systems rather
-                than theoretical prototypes."
-  status: always_on
-```
-
----
-
-<div align="center">
-
-### `[ CORE PROJECTS ]`
-
-</div>
-
-**`[01]` [Token Optimization Engine (TOE)](https://github.com/darshsharma-bit/Token-Optimization-Engine)**
-`# AI Efficiency & Prompt Engineering`
-```diff
-+ Developed a high-performance engine for prompt compression and multi-model alignment
-+ Optimized token usage to reduce LLM latency and operational costs while preserving semantic integrity
-```
-
-**`[02]` [Agentic AI Systems (AGENTIC_OS)](https://github.com/darshsharma-bit/AGENTIC_OS)**
-`# Multi-Agent Workflows & Autonomy`
-```diff
-+ Architected a modular framework for autonomous AI agents that plan and execute multi-step tasks
-+ Implemented intelligent routing and state management for complex agent interactions
-```
-
-**`[03]` Sensor-Driven IoT Systems**
-`# Embedded Systems & Robotics`
-```diff
-+ Built intelligent navigation and monitoring systems using Arduino and C++
-+ Integrated real-time sensor data with decision-making logic for hardware-level autonomy
-```
-
----
-
-<div align="center">
-
-### `[ SKILL MATRIX ]`
-
-</div>
-
-```
-darsh@systems:~$ cat skill_matrix.log
-```
-
-<div align="center">
-
-| `SKILL` | `LEVEL` | |
-|:---|:---:|:---|
-| **Python** | `82%` | ![](https://progress-bar.dev/82/?scale=100&width=280&color=00ffcc) |
-| **C++** | `68%` | ![](https://progress-bar.dev/68/?scale=100&width=280&color=00e0b8) |
-| **Agentic Design** | `90%` | ![](https://progress-bar.dev/90/?scale=100&width=280&color=00ffcc) |
-| **Prompt Engineering** | `85%` | ![](https://progress-bar.dev/85/?scale=100&width=280&color=00e0b8) |
-| **Embedded Systems** | `60%` | ![](https://progress-bar.dev/60/?scale=100&width=280&color=00b89c) |
-| **System Design** | `75%` | ![](https://progress-bar.dev/75/?scale=100&width=280&color=00ffcc) |
-
-</div>
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/-Python-0d1117?style=flat-square&logo=python&logoColor=00FFCC)
-![C++](https://img.shields.io/badge/-C++-0d1117?style=flat-square&logo=cplusplus&logoColor=00FFCC)
-![Arduino](https://img.shields.io/badge/-Arduino-0d1117?style=flat-square&logo=arduino&logoColor=00FFCC)
-![Git](https://img.shields.io/badge/-Git-0d1117?style=flat-square&logo=git&logoColor=00FFCC)
-![Linux](https://img.shields.io/badge/-Linux-0d1117?style=flat-square&logo=linux&logoColor=00FFCC)
+<img
+  src="https://img.shields.io/badge/OPEN_TO-SWE_%7C_AI%2FML_INTERNSHIPS-00C7A7?style=for-the-badge&logo=github&logoColor=white"
+  alt="Open to Software Engineering and AI/ML internships"
+/>
 
 </div>
 
 ---
 
+## About
+
+I'm a **Computer Science student focused on AI engineering and software systems**.
+
+I build projects at the intersection of:
+
+- **Agentic AI** — task planning, orchestration, and autonomous execution
+- **LLM engineering** — prompt optimization, model interaction, and AI tooling
+- **Software engineering** — application architecture, frontend systems, and developer tooling
+- **Intelligent systems** — IoT, embedded software, and sensor-driven applications
+
+My projects range from **multi-agent AI frameworks and LLM optimization tools** to **interactive frontend systems and hardware-integrated applications**.
+
+---
+
+## Currently
+
+- **Building:** agentic AI systems and developer tools for planning, orchestration, and efficient LLM workflows.
+- **Learning:** software architecture, testing, system design, and practical AI evaluation.
+- **Seeking:** Software Engineering / AI-ML internship opportunities.
+- **Interested in:** AI infrastructure, developer tools, intelligent applications, backend/software systems, and applied AI.
+
+---
+
+# Featured Engineering Work
+
+## 01 · Token Optimization Engine
+
+### AI-based prompt compression system using a multi-agent architecture.
+
+Token Optimization Engine explores how LLM workflows can become more efficient through **prompt compression, agent coordination, model interaction, routing, and iterative processing**.
+
+**Technical focus**
+
+`Python` · `Multi-Agent Systems` · `OpenRouter` · `tiktoken` · `FastAPI` · `Streamlit`
+
+**Why it matters**
+
+The project goes beyond a basic LLM wrapper by treating prompt optimization as a **system-level problem involving multiple processing stages and model interactions**.
+
+[**View repository →**](https://github.com/darshsharma-bit/token-optimization-engine)
+
+---
+
+## 02 · AGENTIC_OS
+
+### Modular agentic AI system for multi-agent collaboration and autonomous task execution.
+
+AGENTIC_OS explores the architecture required to **register agents, construct task plans, and execute work through modular system components**.
+
+**Technical focus**
+
+`Python` · `Task Planning` · `Agent Orchestration` · `Execution Engine` · `Modular Architecture`
+
+**Why it matters**
+
+The project focuses on the software architecture around agents rather than treating an LLM as a standalone chatbot.
+
+[**View repository →**](https://github.com/darshsharma-bit/AGENTIC_OS)
+
+---
+
+## 03 · Cyborg Theme
+
+### Interactive 3D diagnostic interface demonstrating modern frontend and WebGL engineering.
+
+A component-driven interface combining **React, 3D rendering, animation systems, responsive behavior, and reduced-motion support**.
+
+**Technical focus**
+
+`React` · `Vite` · `Three.js` · `React Three Fiber` · `Tailwind CSS` · `GSAP`
+
+**Why it matters**
+
+Demonstrates frontend engineering beyond conventional CRUD interfaces through **3D rendering, animation orchestration, responsive fallbacks, and interactive UI systems**.
+
+[**View repository →**](https://github.com/darshsharma-bit/cyborg-theme)
+
+[**Live demo →**](<!-- TODO: add verified live demo URL -->)
+
+---
+
+## 04 · SevaKhata
+
+### Bilingual work-and-payment ledger built around a two-sided confirmation model.
+
+SevaKhata explores a shared digital record for **attendance, work records, advances, payments, disputes, and month-end settlement**.
+
+**Technical focus**
+
+`JavaScript` · `HTML` · `CSS` · `State-driven UX` · `Accessibility` · `Responsive Design`
+
+**Why it matters**
+
+The project models a real product problem through **explicit state transitions and shared confirmation**, rather than simply presenting a static interface.
+
+[**View repository →**](https://github.com/darshsharma-bit/SevaKhata)
+
+[**Live demo →**](<!-- TODO: add verified live demo URL -->)
+
+---
+
+# Other Engineering Work
+
+| Project | Engineering Area | Technologies |
+|:---|:---|:---|
+| [**RideSafePlus**](https://github.com/darshsharma-bit/RideSafePlus) | Road anomaly & pothole detection | C++ |
+| [**LynX-by-VOX**](https://github.com/darshsharma-bit/LynX-by-VOX) | Maritime navigation & safety | Flutter · Dart · ESP32 · GPS |
+| **KavachVoice** | Voice-cloning impersonation defense | Android · AI/ML · Cybersecurity |
+
+> `KavachVoice` is currently private.
+
+---
+
+# Technical Stack
+
+### Languages
+
+![Python](https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=3776AB)
+![C++](https://img.shields.io/badge/C%2B%2B-0D1117?style=flat-square&logo=cplusplus&logoColor=00599C)
+![C](https://img.shields.io/badge/C-0D1117?style=flat-square&logo=c&logoColor=A8B9CC)
+![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=F7DF1E)
+
+### AI / LLM
+
+![Agentic AI](https://img.shields.io/badge/Agentic_AI-0D1117?style=flat-square&logo=probot&logoColor=FFFFFF)
+![LLM Engineering](https://img.shields.io/badge/LLM_Engineering-0D1117?style=flat-square&logo=openai&logoColor=FFFFFF)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-0D1117?style=flat-square&logo=googlegemini&logoColor=FFFFFF)
+
+### Frontend
+
+![React](https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-0D1117?style=flat-square&logo=vite&logoColor=646CFF)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0D1117?style=flat-square&logo=tailwindcss&logoColor=06B6D4)
+![Three.js](https://img.shields.io/badge/Three.js-0D1117?style=flat-square&logo=threedotjs&logoColor=FFFFFF)
+![Flutter](https://img.shields.io/badge/Flutter-0D1117?style=flat-square&logo=flutter&logoColor=02569B)
+
+### Embedded / IoT
+
+![Arduino](https://img.shields.io/badge/Arduino-0D1117?style=flat-square&logo=arduino&logoColor=00979D)
+![ESP32](https://img.shields.io/badge/ESP32-0D1117?style=flat-square&logo=espressif&logoColor=E7352C)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-0D1117?style=flat-square&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=FFFFFF)
+![Figma](https://img.shields.io/badge/Figma-0D1117?style=flat-square&logo=figma&logoColor=F24E1E)
+![VS Code](https://img.shields.io/badge/VS_Code-0D1117?style=flat-square&logo=visualstudiocode&logoColor=007ACC)
+
+---
+
+# Engineering Approach
+
+```text
+PROBLEM
+   │
+   ▼
+UNDERSTAND
+   │
+   ├── requirements
+   ├── constraints
+   └── failure cases
+   │
+   ▼
+DESIGN
+   │
+   ├── architecture
+   ├── interfaces
+   └── execution flow
+   │
+   ▼
+BUILD
+   │
+   ├── implementation
+   ├── integration
+   └── validation
+   │
+   ▼
+MEASURE
+   │
+   ├── correctness
+   ├── performance
+   └── usability
+   │
+   ▼
+ITERATE
+```
+
+I aim to move projects from **idea → architecture → implementation → verification**, rather than stopping at a prototype.
+
+---
+
+# GitHub Activity
+
 <div align="center">
 
-### `[ CURRENT FOCUS ]`
+<a href="https://github.com/darshsharma-bit">
+
+<img
+  height="165"
+  src="https://github-readme-stats.vercel.app/api?username=darshsharma-bit&show_icons=true&include_all_commits=true&count_private=false&hide_border=true&rank_icon=github&theme=transparent"
+  alt="Darsh Sharma GitHub statistics"
+/>
+
+</a>
+
+<a href="https://github.com/darshsharma-bit">
+
+<img
+  height="165"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=darshsharma-bit&layout=compact&langs_count=8&count_private=false&hide_border=true&theme=transparent"
+  alt="Darsh Sharma most used GitHub languages"
+/>
+
+</a>
 
 </div>
 
-```console
-darsh@systems:~$ cat current_focus.log
+<br />
 
-[FOCUS 1] Scalable Autonomy
-          → Engineering robust frameworks for large-scale multi-agent deployments.
+<div align="center">
 
-[FOCUS 2] Prompt Compression
-          → Refining heuristic and semantic methods for token-efficient AI communication.
+<img
+  src="https://streak-stats.demolab.com?user=darshsharma-bit&theme=transparent&hide_border=true"
+  alt="Darsh Sharma GitHub contribution streak"
+/>
 
-[FOCUS 3] Hardware Agnosticism
-          → Extending intelligent control systems to diverse embedded platforms.
-```
+</div>
+
+---
+
+## Contribution Activity
+
+<div align="center">
+
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=darshsharma-bit&theme=github-compact&hide_border=true&area=true&radius=8"
+  alt="Darsh Sharma GitHub contribution activity graph"
+/>
+
+</div>
+
+---
+
+# Beyond the Repository
+
+I'm interested in engineering problems where **AI becomes part of the system architecture**, not simply an interface placed on top of an existing application.
+
+Current areas of exploration:
+
+`Agentic AI` · `LLM Systems` · `Developer Tools` · `Software Architecture`  
+`Frontend Engineering` · `Embedded Systems` · `IoT` · `Applied AI`
+
+---
+
+# Internship
+
+<div align="center">
+
+### Open to Software Engineering & AI/ML Internship Opportunities
+
+**Preferred roles:** `SWE` · `AI/ML Engineering` · `Developer Tools` · `Applied AI`
+
+**Target term:** `<!-- TODO: Summer 2027 / specific term -->`
+
+**Location:** `<!-- TODO: India / Remote / specific locations -->`
+
+</div>
+
+---
+
+# Let's Talk
+
+If you're building **AI systems, developer tools, intelligent applications, or software infrastructure**, I'd be interested in connecting.
+
+<div align="center">
+
+<a href="<!-- TODO: add resume URL -->">
+  <img src="https://img.shields.io/badge/Resume-View-0D1117?style=for-the-badge&logo=readthedocs&logoColor=00C7A7" alt="View Darsh Sharma resume" />
+</a>
+
+<a href="https://www.linkedin.com/in/darsh-sharma-7b3169361">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Darsh Sharma LinkedIn" />
+</a>
+
+<a href="mailto:darsh1may.0@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Darsh Sharma" />
+</a>
+
+<a href="https://github.com/darshsharma-bit">
+  <img src="https://img.shields.io/badge/GitHub-Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="Darsh Sharma GitHub projects" />
+</a>
+
+</div>
 
 ---
 
 <div align="center">
 
-### `[ VITAL SIGNS ]`
+### DARSH SHARMA
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=darshsharma-bit&bg_color=0d1117&color=00ffcc&line=00ffcc&point=ffffff&area=true&hide_border=true" />
-
-<img src="https://github-readme-stats.vercel.app/api?username=darshsharma-bit&show_icons=true&theme=dark&bg_color=0d1117&title_color=00ffcc&icon_color=00ffcc&text_color=c9d1d9&border_color=00ffcc&hide_border=false" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=darshsharma-bit&background=0d1117&border=00ffcc&stroke=00ffcc&ring=00ffcc&fire=00ffcc&currStreakLabel=00ffcc" />
+<sub>Building intelligent systems from architecture to execution.</sub>
 
 </div>
-
----
-
-<details>
-<summary><code>&gt;&gt; click to decrypt hidden log_</code></summary>
-
-<br/>
-
-```console
-darsh@systems:~$ sudo cat /var/log/easter_egg.log
-
-[ACCESS GRANTED]
-You found the hidden terminal. Most recruiters stop scrolling at the badges —
-you didn't. That curiosity is basically the whole job description.
-
-fun_fact: this README was assembled the same way I build agents —
-          plan the structure, execute section by section, verify the output.
-
-darsh@systems:~$ echo "thanks for reading this far"
-thanks for reading this far
-darsh@systems:~$ _
 ```
 
-</details>
+The important part now is **not to keep adding README decoration**. This version already has the complete hiring funnel: identity, role, current work, defensible technologies, strongest projects, technical reasoning, activity, and direct contact.
 
----
+There are only a few external pieces that still need to be supplied:
 
-<div align="center">
+1. **Your resume URL** — replace both resume TODOs.
+2. **Your actual internship term** — replace `Summer 2027 / specific term` with the cycle you're genuinely applying for.
+3. **Your location preference** — replace the location TODO with your real preference.
+4. **Verified live demos** — add them for Cyborg Theme and SevaKhata if available.
+5. **Verified project metrics** — if you have actual TOE benchmarks, deployment usage, test coverage, latency measurements, etc., those should replace generic descriptions. Do not manufacture them.
 
-```
-> Architecting the next generation of autonomous intelligence.
-```
+I would **not** add a visitor counter, contribution snake, GitHub trophies, Spotify widget, WakaTime panel, or additional animated headers. At this point those would increase visual noise without increasing hiring evidence.
 
-**`[ EOF ]`**
+The next quality jump is therefore repository-level rather than README-level: **GitHub Actions, automated tests, deployment, benchmark data, clean dependency management, licenses/security documentation, and strong project READMEs**. Those are the artifacts that substantiate what this profile says. GitHub's own repository guidance emphasizes clear documentation, testing, dependency management, and security as indicators of a healthy repository. [GitHub repository best practices](https://docs.github.com/en/repositories/creating-and-managing-repositories/best-practices-for-repositories?utm_source=chatgpt.com)
 
-</div>
+So this should be the **master profile README**; after this, the highest-return work is making `token-optimization-engine`, `AGENTIC_OS`, `cyborg-theme`, and `SevaKhata` look like mature engineering projects rather than adding more content to the profile.
