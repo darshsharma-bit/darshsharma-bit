@@ -12,7 +12,7 @@
 
 <p>
   <a href="https://docs.google.com/document/d/1Uo-VAeQIOYU3MatsH8cjqAGp3eEsutsDrRbPl6k3hN0/edit?usp=sharing">
-    <img src="./assets/Google_Antigravity_Logo.svg" alt="Resume" height="32" />
+    <img src="./assets/resume-icon.svg" alt="Resume" width="34" height="34" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/darsh-sharma-7b3169361">
