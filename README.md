@@ -124,6 +124,25 @@ The project models a real product problem through **explicit state transitions a
 [**View repository →**](https://github.com/darshsharma-bit/SevaKhata)
 
 
+
+---
+
+## 04 · RideSafePlus
+
+### Intelligent road anomaly and pothole detection system.
+
+RideSafePlus focuses on detecting **road anomalies and potholes** to support safer mobility through automated road-condition analysis.
+
+**Technical focus**
+
+`C++` · `Road Anomaly Detection` · `IoT` · `Embedded Systems`
+
+**Why it matters**
+
+The project applies software and sensing concepts to a real-world transportation problem, turning road-condition data into actionable safety information.
+
+[**View repository →**](https://github.com/darshsharma-bit/RideSafePlus)
+
 ---
 
 # Other Engineering Work
