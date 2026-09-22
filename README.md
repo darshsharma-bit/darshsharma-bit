@@ -16,15 +16,15 @@
 <div align="center">
 
 <a href="https://docs.google.com/document/d/1Uo-VAeQIOYU3MatsH8cjqAGp3eEsutsDrRbPl6k3hN0/edit?usp=sharing">
-  <img src="https://cdn.jsdelivr.net/gh/dheereshag/coloured-icons@master/public/logos/office/google/google.svg" alt="Resume" height="42" />
+  <img src="https://cdn.jsdelivr.net/gh/dheereshag/coloured-icons@1.9.7/public/logos/technology/google/google.svg" alt="Resume" height="42" />
 </a>
 &nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/darsh-sharma-7b3169361">
-  <img src="https://cdn.jsdelivr.net/gh/dheereshag/coloured-icons@master/public/logos/social%20media/linkedin/linkedin.svg" alt="LinkedIn" height="42" />
+  <img src="https://cdn.jsdelivr.net/gh/dheereshag/coloured-icons@1.9.7/public/logos/social%20media/linkedin/linkedin.svg" alt="LinkedIn" height="42" />
 </a>
 &nbsp;&nbsp;
 <a href="mailto:darsh1may.0@gmail.com">
-  <img src="https://cdn.jsdelivr.net/gh/dheereshag/coloured-icons@master/public/logos/social%20media/gmail/gmail.svg" alt="Email" height="42" />
+  <img src="https://cdn.jsdelivr.net/gh/dheereshag/coloured-icons@1.9.7/public/logos/technology/gmail/gmail.svg" alt="Email" height="42" />
 </a>
 
 <br />
