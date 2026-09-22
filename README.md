@@ -203,7 +203,7 @@ End-to-end mobile, embedded, and connectivity engineering.
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/dheereshag/coloured-icons@1.9.7/public/logos/technology/claude/claude.svg" alt="Claude" height="48" />
   &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/dheereshag/coloured-icons@1.9.7/public/logos/technology/google/google.svg" alt="Antigravity" height="48" />
+  <img src="./assets/Google_Antigravity_Logo.svg" alt="Antigravity" width="48" height="48" />
 </p>
 
 ---
