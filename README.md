@@ -25,7 +25,7 @@
 </p>
 
 <p>
-  <img src="./assets/open-to-internships.svg" alt="Open to SWE and AI/ML internships" width="300" />
+  <img src="./assets/open-to-internships.svg" alt="Open to SWE and AI/ML internships" width="280" />
 </p>
 
 </div>
