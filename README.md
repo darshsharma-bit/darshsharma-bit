@@ -1,6 +1,3 @@
-
-<div align="center">
-
 <div align="center">
   <img src="./assets/darsh-banner.svg" alt="DARSH SHARMA — AGENTIC AI SYSTEMS BUILDER" width="820" />
 </div>
