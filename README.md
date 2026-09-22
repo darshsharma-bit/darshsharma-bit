@@ -294,22 +294,20 @@ Interested in **AI systems, developer tools, intelligent applications, and softw
 <div align="center">
 
 <a href="<!-- TODO: add resume URL -->">
-  <img src="https://img.shields.io/badge/Resume-View-0D1117?style=for-the-badge&logo=readthedocs&logoColor=00C7A7" alt="View Darsh Sharma resume" />
+  <img src="https://cdn.jsdelivr.net/gh/dheereshag/coloured-icons@1.9.7/public/logos/technology/google/google.svg" alt="Resume" height="42" />
 </a>
-
+&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/darsh-sharma-7b3169361">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Darsh Sharma LinkedIn" />
+  <img src="https://cdn.jsdelivr.net/gh/dheereshag/coloured-icons@1.9.7/public/logos/social%20media/linkedin/linkedin.svg" alt="LinkedIn" height="42" />
 </a>
-
+&nbsp;&nbsp;
 <a href="mailto:darsh1may.0@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Darsh Sharma" />
+  <img src="https://cdn.jsdelivr.net/gh/dheereshag/coloured-icons@1.9.7/public/logos/technology/gmail/gmail.svg" alt="Email" height="42" />
 </a>
-
+&nbsp;&nbsp;
 <a href="https://github.com/darshsharma-bit">
-  <img src="https://img.shields.io/badge/GitHub-Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="Darsh Sharma GitHub projects" />
+  <img src="https://cdn.jsdelivr.net/gh/dheereshag/coloured-icons@1.9.7/public/logos/social%20media/github/github.svg" alt="GitHub" height="42" />
 </a>
-
-</div>
 
 ---
 
