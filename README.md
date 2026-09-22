@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="./assets/darsh-banner.svg" alt="DARSH SHARMA — AGENTIC AI SYSTEMS BUILDER" width="900" />
+<img src="./assets/darsh-banner.svg" alt="DARSH SHARMA — AGENTIC AI SYSTEMS BUILDER" width="100%" />
 
 ### Computer Science student building agentic AI systems, LLM tooling, and intelligent software.
 
