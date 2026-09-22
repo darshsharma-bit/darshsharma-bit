@@ -2,25 +2,25 @@
   <img src="./assets/darsh-banner.svg" alt="DARSH SHARMA — AGENTIC AI SYSTEMS BUILDER" width="820" />
 </div>
 
+<div align="center">
+
 ### Computer Science student building agentic AI systems, LLM tooling, and intelligent software.
 
 **B.Tech Computer Science & Engineering · BML Munjal University · India**
 
 **Open to Software Engineering & AI/ML internships**
 
-<div align="center">
-
 <p>
   <a href="https://docs.google.com/document/d/1Uo-VAeQIOYU3MatsH8cjqAGp3eEsutsDrRbPl6k3hN0/edit?usp=sharing">
-    <img src="https://cdn.jsdelivr.net/gh/dheereshag/coloured-icons@1.9.7/public/logos/technology/google/google.svg" alt="Resume" height="34" />
+    <img src="https://cdn.jsdelivr.net/gh/dheereshag/coloured-icons@1.9.7/public/logos/technology/google/google.svg" alt="Resume" height="32" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/darsh-sharma-7b3169361">
-    <img src="https://cdn.jsdelivr.net/gh/dheereshag/coloured-icons@1.9.7/public/logos/social%20media/linkedin/linkedin.svg" alt="LinkedIn" height="34" />
+    <img src="https://cdn.jsdelivr.net/gh/dheereshag/coloured-icons@1.9.7/public/logos/social%20media/linkedin/linkedin.svg" alt="LinkedIn" height="32" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:darsh1may.0@gmail.com">
-    <img src="https://cdn.jsdelivr.net/gh/dheereshag/coloured-icons@1.9.7/public/logos/technology/gmail/gmail.svg" alt="Email" height="34" />
+    <img src="https://cdn.jsdelivr.net/gh/dheereshag/coloured-icons@1.9.7/public/logos/technology/gmail/gmail.svg" alt="Email" height="32" />
   </a>
 </p>
 
