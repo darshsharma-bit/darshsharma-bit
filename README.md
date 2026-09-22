@@ -26,14 +26,7 @@
 
 <br />
 
-<table>
-  <tr>
-    <td><strong>OPEN TO</strong></td>
-    <td><code>SWE</code></td>
-    <td><code>AI/ML</code></td>
-    <td><strong>INTERNSHIPS</strong></td>
-  </tr>
-</table>
+<img src="./assets/open-to-internships.svg" alt="Open to SWE and AI/ML internships" width="310" />
 
 </div>
 
