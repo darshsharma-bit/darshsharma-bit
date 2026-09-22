@@ -16,13 +16,15 @@
 <div align="center">
 
 <a href="https://docs.google.com/document/d/1Uo-VAeQIOYU3MatsH8cjqAGp3eEsutsDrRbPl6k3hN0/edit?usp=sharing">
-  <img src="https://img.shields.io/badge/RESUME-%E2%86%92-2B2F36?style=for-the-badge&logo=readthedocs&logoColor=D97757" alt="View resume" />
+  <img src="https://cdn.jsdelivr.net/gh/dheereshag/coloured-icons@master/public/logos/office/google/google.svg" alt="Resume" height="42" />
 </a>
+&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/darsh-sharma-7b3169361">
-  <img src="https://img.shields.io/badge/LINKEDIN-%E2%86%97-2B2F36?style=for-the-badge&logo=linkedin&logoColor=E0E0E0" alt="Connect on LinkedIn" />
+  <img src="https://cdn.jsdelivr.net/gh/dheereshag/coloured-icons@master/public/logos/social%20media/linkedin/linkedin.svg" alt="LinkedIn" height="42" />
 </a>
+&nbsp;&nbsp;
 <a href="mailto:darsh1may.0@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-%E2%9C%89-2B2F36?style=for-the-badge&logo=gmail&logoColor=D97757" alt="Contact Darsh Sharma" />
+  <img src="https://cdn.jsdelivr.net/gh/dheereshag/coloured-icons@master/public/logos/social%20media/gmail/gmail.svg" alt="Email" height="42" />
 </a>
 
 <br />
