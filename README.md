@@ -16,11 +16,11 @@
 ╚═══════════════════════════════════════════════════════════════════════════════════════════════════════════╝
 ```
 
-### Building AI systems that plan, execute, and interact with real software.
+### Computer Science student building agentic AI systems, LLM tooling, and intelligent software.
 
 **B.Tech Computer Science & Engineering · BML Munjal University · India**
 
-**Open to Software Engineering & AI/ML Internship Opportunities**
+**Open to Software Engineering & AI/ML internships**
 
 <br />
 
@@ -47,29 +47,27 @@
 
 ## About
 
-I'm a **Computer Science student focused on AI engineering and software systems**.
+I'm a **Computer Science student focused on AI engineering, software systems, and applied intelligent systems**.
 
-I build projects at the intersection of:
+I build across:
 
-- **Agentic AI** — task planning, orchestration, and autonomous execution
-- **LLM engineering** — prompt optimization, model interaction, and AI tooling
-- **Software engineering** — application architecture, frontend systems, and developer tooling
-- **Intelligent systems** — IoT, embedded software, and sensor-driven applications
+`Agentic AI` · `LLM Engineering` · `Software Systems` · `Applied AI` · `IoT`
 
-My projects range from **multi-agent AI frameworks and LLM optimization tools** to **interactive frontend systems and hardware-integrated applications**.
+My work ranges from **multi-agent systems and LLM tooling** to **product-focused software and hardware-integrated applications**.
 
 ---
 
 ## Currently
 
-- **Building:** agentic AI systems and developer tools for planning, orchestration, and efficient LLM workflows.
-- **Learning:** software architecture, testing, system design, and practical AI evaluation.
-- **Seeking:** Software Engineering / AI-ML internship opportunities.
-- **Interested in:** AI infrastructure, developer tools, intelligent applications, backend/software systems, and applied AI.
+> Building AI systems that plan, execute, evaluate, and interact with real software.
+
+**Focus:** `Agentic AI` · `LLM Systems` · `Developer Tools` · `Software Architecture`
 
 ---
 
 # Featured Engineering Work
+
+Selected projects focused on AI systems, software architecture, and applied engineering.
 
 ## 01 · Token Optimization Engine
 
@@ -81,9 +79,13 @@ Token Optimization Engine explores how LLM workflows can become more efficient t
 
 `Python` · `Multi-Agent Systems` · `OpenRouter` · `tiktoken` · `FastAPI` · `Streamlit`
 
-**Why it matters**
+**Engineering**
 
-The project goes beyond a basic LLM wrapper by treating prompt optimization as a **system-level problem involving multiple processing stages and model interactions**.
+Multi-stage prompt analysis, compression, routing, and validation.
+
+**Focus**
+
+Improving LLM workflow efficiency while preserving useful context.
 
 [**View repository →**](https://github.com/darshsharma-bit/token-optimization-engine)
 
@@ -99,9 +101,13 @@ AGENTIC_OS explores the architecture required to **register agents, construct ta
 
 `Python` · `Task Planning` · `Agent Orchestration` · `Execution Engine` · `Modular Architecture`
 
-**Why it matters**
+**Engineering**
 
-The project focuses on the software architecture around agents rather than treating an LLM as a standalone chatbot.
+Agent registration, task planning, orchestration, and modular execution.
+
+**Focus**
+
+Designing agent systems as software architecture rather than a standalone chatbot.
 
 [**View repository →**](https://github.com/darshsharma-bit/AGENTIC_OS)
 
@@ -117,9 +123,13 @@ SevaKhata explores a shared digital record for **attendance, work records, advan
 
 `JavaScript` · `HTML` · `CSS` · `State-driven UX` · `Accessibility` · `Responsive Design`
 
-**Why it matters**
+**Engineering**
 
-The project models a real product problem through **explicit state transitions and shared confirmation**, rather than simply presenting a static interface.
+State-driven workflows, shared confirmation, responsive UI, and accessibility.
+
+**Focus**
+
+Turning a real-world workflow into a structured digital system.
 
 [**View repository →**](https://github.com/darshsharma-bit/SevaKhata)
 
@@ -137,14 +147,15 @@ RideSafePlus focuses on detecting **road anomalies and potholes** to support saf
 
 `C++` · `Road Anomaly Detection` · `IoT` · `Embedded Systems`
 
-**Why it matters**
+**Engineering**
 
-The project applies software and sensing concepts to a real-world transportation problem, turning road-condition data into actionable safety information.
+Road-condition sensing, anomaly detection, and embedded data processing.
+
+**Focus**
+
+Applying software and sensing to real-world mobility safety.
 
 [**View repository →**](https://github.com/darshsharma-bit/RideSafePlus)
-
----
-
 
 ---
 
@@ -158,9 +169,13 @@ LynX-by-VOX combines **Flutter, ESP32, GPS, and connected sensing** to support n
 
 `Flutter` · `Dart` · `ESP32` · `GPS` · `IoT`
 
-**Why it matters**
+**Engineering**
 
-The project demonstrates an end-to-end approach across **mobile software, embedded hardware, connectivity, and real-world safety requirements**.
+Flutter application + ESP32 + GPS + connected sensing.
+
+**Focus**
+
+End-to-end mobile, embedded, and connectivity engineering.
 
 [**View repository →**](https://github.com/darshsharma-bit/LynX-by-VOX)
 
@@ -249,35 +264,20 @@ I aim to move projects from **idea → architecture → implementation → verif
 <div align="center">
 
 <a href="https://github.com/darshsharma-bit">
-
-<img
-  height="165"
-  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=darshsharma-bit&theme=github_dark"
-  alt="Darsh Sharma GitHub statistics"
-/>
-
+  <img
+    height="165"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=darshsharma-bit&theme=github_dark"
+    alt="GitHub statistics"
+  />
 </a>
 
 <a href="https://github.com/darshsharma-bit">
-
-<img
-  height="165"
-  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=darshsharma-bit&theme=github_dark"
-  alt="Darsh Sharma most used GitHub languages"
-/>
-
+  <img
+    height="165"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=darshsharma-bit&theme=github_dark"
+    alt="Most used GitHub languages"
+  />
 </a>
-
-</div>
-
-<br />
-
-<div align="center">
-
-<img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=darshsharma-bit&theme=github_dark"
-  alt="Darsh Sharma GitHub contribution streak"
-/>
 
 </div>
 
@@ -287,41 +287,20 @@ I aim to move projects from **idea → architecture → implementation → verif
 
 <div align="center">
 
-<img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=darshsharma-bit&theme=github_dark"
-  alt="Darsh Sharma GitHub contribution activity graph"
-/>
+<a href="https://github.com/darshsharma-bit">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=darshsharma-bit&theme=github_dark"
+    alt="GitHub contribution activity"
+  />
+</a>
 
 </div>
 
 ---
 
-# Beyond the Repository
+# Contact
 
-I'm interested in engineering problems where **AI becomes part of the system architecture**, not simply an interface placed on top of an existing application.
-
-Current areas of exploration:
-
-`Agentic AI` · `LLM Systems` · `Developer Tools` · `Software Architecture`  
-`Frontend Engineering` · `Embedded Systems` · `IoT` · `Applied AI`
-
----
-
-# Internship
-
-<div align="center">
-
-### Open to Software Engineering & AI/ML Internship Opportunities
-
-**Preferred roles:** `SWE` · `AI/ML Engineering` · `Developer Tools` · `Applied AI`
-
-</div>
-
----
-
-# Let's Talk
-
-If you're building **AI systems, developer tools, intelligent applications, or software infrastructure**, I'd be interested in connecting.
+Interested in **AI systems, developer tools, intelligent applications, and software infrastructure**.
 
 <div align="center">
 
