@@ -8,26 +8,36 @@
 
 **Open to Software Engineering & AI/ML internships**
 
-<br />
-
 <div align="left">
-
-<a href="https://docs.google.com/document/d/1Uo-VAeQIOYU3MatsH8cjqAGp3eEsutsDrRbPl6k3hN0/edit?usp=sharing">
-  <img src="https://cdn.jsdelivr.net/gh/dheereshag/coloured-icons@1.9.7/public/logos/technology/google/google.svg" alt="Resume" height="34" />
-</a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/darsh-sharma-7b3169361">
-  <img src="https://cdn.jsdelivr.net/gh/dheereshag/coloured-icons@1.9.7/public/logos/social%20media/linkedin/linkedin.svg" alt="LinkedIn" height="34" />
-</a>
-&nbsp;&nbsp;&nbsp;
-<a href="mailto:darsh1may.0@gmail.com">
-  <img src="https://cdn.jsdelivr.net/gh/dheereshag/coloured-icons@1.9.7/public/logos/technology/gmail/gmail.svg" alt="Email" height="34" />
-</a>
-
-<br />
-
-<img src="./assets/open-to-internships.svg" alt="Open to SWE and AI/ML internships" width="310" />
-
+  <table>
+    <tr>
+      <td>
+        <a href="https://docs.google.com/document/d/1Uo-VAeQIOYU3MatsH8cjqAGp3eEsutsDrRbPl6k3hN0/edit?usp=sharing">
+          <img src="https://cdn.jsdelivr.net/gh/dheereshag/coloured-icons@1.9.7/public/logos/technology/google/google.svg" alt="Resume" height="32" />
+        </a>
+      </td>
+      <td width="18"></td>
+      <td>
+        <a href="https://www.linkedin.com/in/darsh-sharma-7b3169361">
+          <img src="https://cdn.jsdelivr.net/gh/dheereshag/coloured-icons@1.9.7/public/logos/social%20media/linkedin/linkedin.svg" alt="LinkedIn" height="32" />
+        </a>
+      </td>
+      <td width="18"></td>
+      <td>
+        <a href="mailto:darsh1may.0@gmail.com">
+          <img src="https://cdn.jsdelivr.net/gh/dheereshag/coloured-icons@1.9.7/public/logos/technology/gmail/gmail.svg" alt="Email" height="32" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="5" height="10"></td>
+    </tr>
+    <tr>
+      <td colspan="5">
+        <img src="./assets/open-to-internships.svg" alt="Open to SWE and AI/ML internships" width="310" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
