@@ -1,7 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 869 113" width="230.7" height="30">
-<defs><clipPath id="c"><rect width="869" height="113" rx="4"/></clipPath></defs>
-<g clip-path="url(#c)">
-<rect width="869" height="113" fill="#161B22"/>
-<text x="434.5" y="72" text-anchor="middle" fill="#E8EAED" font-family="Inter,Arial,sans-serif" font-size="28" font-weight="600">Google Antigravity</text>
-</g>
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48" role="img" aria-label="Antigravity">
+<rect width="48" height="48" rx="11" fill="#161B22"/>
+<path d="M11 35 24 9l13 26H30l-6-13-6 13H11Z" fill="#F28B6E"/>
 </svg>
