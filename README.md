@@ -306,7 +306,7 @@ Interested in **AI systems, developer tools, intelligent applications, and softw
 </a>
 &nbsp;&nbsp;
 <a href="https://github.com/darshsharma-bit">
-  <img src="https://cdn.jsdelivr.net/gh/dheereshag/coloured-icons@1.9.7/public/logos/social%20media/github/github.svg" alt="GitHub" height="42" />
+  <img src="https://cdn.jsdelivr.net/gh/dheereshag/coloured-icons@1.9.7/public/logos/technology/github/github.svg" alt="GitHub" height="42" />
 </a>
 
 ---
