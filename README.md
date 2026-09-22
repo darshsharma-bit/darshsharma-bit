@@ -343,22 +343,3 @@ If you're building **AI systems, developer tools, intelligent applications, or s
 ### DARSH SHARMA
 
 <sub>Building intelligent systems from architecture to execution.</sub>
-
-</div>
-```
-
-The important part now is **not to keep adding README decoration**. This version already has the complete hiring funnel: identity, role, current work, defensible technologies, strongest projects, technical reasoning, activity, and direct contact.
-
-There are only a few external pieces that still need to be supplied:
-
-1. **Your resume URL** — replace both resume TODOs.
-2. **Your actual internship term** — replace `Summer 2027 / specific term` with the cycle you're genuinely applying for.
-3. **Your location preference** — replace the location TODO with your real preference.
-4. **Verified live demos** — add them for Cyborg Theme and SevaKhata if available.
-5. **Verified project metrics** — if you have actual TOE benchmarks, deployment usage, test coverage, latency measurements, etc., those should replace generic descriptions. Do not manufacture them.
-
-I would **not** add a visitor counter, contribution snake, GitHub trophies, Spotify widget, WakaTime panel, or additional animated headers. At this point those would increase visual noise without increasing hiring evidence.
-
-The next quality jump is therefore repository-level rather than README-level: **GitHub Actions, automated tests, deployment, benchmark data, clean dependency management, licenses/security documentation, and strong project READMEs**. Those are the artifacts that substantiate what this profile says. GitHub's own repository guidance emphasizes clear documentation, testing, dependency management, and security as indicators of a healthy repository. [GitHub repository best practices](https://docs.github.com/en/repositories/creating-and-managing-repositories/best-practices-for-repositories?utm_source=chatgpt.com)
-
-So this should be the **master profile README**; after this, the highest-return work is making `token-optimization-engine`, `AGENTIC_OS`, `cyborg-theme`, and `SevaKhata` look like mature engineering projects rather than adding more content to the profile.
