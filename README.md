@@ -145,16 +145,6 @@ The project applies software and sensing concepts to a real-world transportation
 
 ---
 
-# Other Engineering Work
-
-| Project | Engineering Area | Technologies |
-|:---|:---|:---|
-| [**RideSafePlus**](https://github.com/darshsharma-bit/RideSafePlus) | Road anomaly & pothole detection | C++ |
-| [**LynX-by-VOX**](https://github.com/darshsharma-bit/LynX-by-VOX) | Maritime navigation & safety | Flutter · Dart · ESP32 · GPS |
-| **KavachVoice** | Voice-cloning impersonation defense | Android · AI/ML · Cybersecurity |
-
-> `KavachVoice` is currently private.
-
 ---
 
 # Technical Stack
