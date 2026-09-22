@@ -245,7 +245,7 @@ I aim to move projects from **idea → architecture → implementation → verif
 
 <img
   height="165"
-  src="https://github-readme-stats.vercel.app/api?username=darshsharma-bit&show_icons=true&include_all_commits=true&count_private=false&hide_border=true&rank_icon=github&theme=transparent"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=darshsharma-bit&theme=github_dark"
   alt="Darsh Sharma GitHub statistics"
 />
 
@@ -255,7 +255,7 @@ I aim to move projects from **idea → architecture → implementation → verif
 
 <img
   height="165"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=darshsharma-bit&layout=compact&langs_count=8&count_private=false&hide_border=true&theme=transparent"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=darshsharma-bit&theme=github_dark"
   alt="Darsh Sharma most used GitHub languages"
 />
 
@@ -268,7 +268,7 @@ I aim to move projects from **idea → architecture → implementation → verif
 <div align="center">
 
 <img
-  src="https://streak-stats.demolab.com?user=darshsharma-bit&theme=transparent&hide_border=true"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=darshsharma-bit&theme=github_dark"
   alt="Darsh Sharma GitHub contribution streak"
 />
 
@@ -281,7 +281,7 @@ I aim to move projects from **idea → architecture → implementation → verif
 <div align="center">
 
 <img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=darshsharma-bit&theme=github-compact&hide_border=true&area=true&radius=8"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=darshsharma-bit&theme=github_dark"
   alt="Darsh Sharma GitHub contribution activity graph"
 />
 
