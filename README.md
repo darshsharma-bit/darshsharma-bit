@@ -145,6 +145,25 @@ The project applies software and sensing concepts to a real-world transportation
 
 ---
 
+
+---
+
+## 05 · LynX-by-VOX
+
+### Maritime navigation and safety system integrating mobile software with embedded hardware.
+
+LynX-by-VOX combines **Flutter, ESP32, GPS, and connected sensing** to support navigation and safety workflows for maritime environments.
+
+**Technical focus**
+
+`Flutter` · `Dart` · `ESP32` · `GPS` · `IoT`
+
+**Why it matters**
+
+The project demonstrates an end-to-end approach across **mobile software, embedded hardware, connectivity, and real-world safety requirements**.
+
+[**View repository →**](https://github.com/darshsharma-bit/LynX-by-VOX)
+
 ---
 
 # Technical Stack
