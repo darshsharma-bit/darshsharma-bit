@@ -197,7 +197,12 @@ End-to-end mobile, embedded, and connectivity engineering.
 ### Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,openai,anthropic" alt="Git, GitHub, Figma, VS Code, ChatGPT, Claude" />
+  <img src="https://skillicons.dev/icons?i=git,github,figma,vscode" alt="Git, GitHub, Figma, VS Code" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/dheereshag/coloured-icons@1.9.7/public/logos/technology/chatgpt/chatgpt.svg" alt="ChatGPT" height="48" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/dheereshag/coloured-icons@1.9.7/public/logos/technology/claude/claude.svg" alt="Claude" height="48" />
+  &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/dheereshag/coloured-icons@1.9.7/public/logos/technology/google/google.svg" alt="Antigravity" height="48" />
 </p>
 
