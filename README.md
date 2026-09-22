@@ -107,27 +107,7 @@ The project focuses on the software architecture around agents rather than treat
 
 ---
 
-## 03 · Cyborg Theme
-
-### Interactive 3D diagnostic interface demonstrating modern frontend and WebGL engineering.
-
-A component-driven interface combining **React, 3D rendering, animation systems, responsive behavior, and reduced-motion support**.
-
-**Technical focus**
-
-`React` · `Vite` · `Three.js` · `React Three Fiber` · `Tailwind CSS` · `GSAP`
-
-**Why it matters**
-
-Demonstrates frontend engineering beyond conventional CRUD interfaces through **3D rendering, animation orchestration, responsive fallbacks, and interactive UI systems**.
-
-[**View repository →**](https://github.com/darshsharma-bit/cyborg-theme)
-
-[**Live demo →**](<!-- TODO: add verified live demo URL -->)
-
----
-
-## 04 · SevaKhata
+## 03 · SevaKhata
 
 ### Bilingual work-and-payment ledger built around a two-sided confirmation model.
 
@@ -143,7 +123,6 @@ The project models a real product problem through **explicit state transitions a
 
 [**View repository →**](https://github.com/darshsharma-bit/SevaKhata)
 
-[**Live demo →**](<!-- TODO: add verified live demo URL -->)
 
 ---
 
@@ -151,7 +130,6 @@ The project models a real product problem through **explicit state transitions a
 
 | Project | Engineering Area | Technologies |
 |:---|:---|:---|
-| [**RideSafePlus**](https://github.com/darshsharma-bit/RideSafePlus) | Road anomaly & pothole detection | C++ |
 | [**LynX-by-VOX**](https://github.com/darshsharma-bit/LynX-by-VOX) | Maritime navigation & safety | Flutter · Dart · ESP32 · GPS |
 | **KavachVoice** | Voice-cloning impersonation defense | Android · AI/ML · Cybersecurity |
 
