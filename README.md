@@ -26,7 +26,14 @@
 
 <br />
 
-<strong>OPEN TO · SWE | AI/ML INTERNSHIPS</strong>
+<table>
+  <tr>
+    <td><strong>OPEN TO</strong></td>
+    <td><code>SWE</code></td>
+    <td><code>AI/ML</code></td>
+    <td><strong>INTERNSHIPS</strong></td>
+  </tr>
+</table>
 
 </div>
 
