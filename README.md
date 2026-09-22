@@ -16,22 +16,20 @@
 <div align="center">
 
 <a href="https://docs.google.com/document/d/1Uo-VAeQIOYU3MatsH8cjqAGp3eEsutsDrRbPl6k3hN0/edit?usp=sharing">
-  <img src="https://cdn.jsdelivr.net/gh/dheereshag/coloured-icons@1.9.7/public/logos/technology/google/google.svg" alt="Resume" height="42" />
+  <img src="https://cdn.jsdelivr.net/gh/dheereshag/coloured-icons@1.9.7/public/logos/technology/google/google.svg" alt="Resume" height="36" />
 </a>
-&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/darsh-sharma-7b3169361">
-  <img src="https://cdn.jsdelivr.net/gh/dheereshag/coloured-icons@1.9.7/public/logos/social%20media/linkedin/linkedin.svg" alt="LinkedIn" height="42" />
+  <img src="https://cdn.jsdelivr.net/gh/dheereshag/coloured-icons@1.9.7/public/logos/social%20media/linkedin/linkedin.svg" alt="LinkedIn" height="36" />
 </a>
-&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
 <a href="mailto:darsh1may.0@gmail.com">
-  <img src="https://cdn.jsdelivr.net/gh/dheereshag/coloured-icons@1.9.7/public/logos/technology/gmail/gmail.svg" alt="Email" height="42" />
+  <img src="https://cdn.jsdelivr.net/gh/dheereshag/coloured-icons@1.9.7/public/logos/technology/gmail/gmail.svg" alt="Email" height="36" />
 </a>
 
-<br />
+<br /><br />
 
-<img src="https://img.shields.io/badge/OPEN_TO-%E2%80%A2_SWE_%7C_AI%2FML_INTERNSHIPS-D97757?style=for-the-badge&logo=github&logoColor=0D1117" alt="Open to Software Engineering and AI/ML internships" />
-
-</div>
+<img src="https://img.shields.io/badge/OPEN_TO-SWE_%7C_AI%2FML_INTERNSHIPS-2B2F36?style=flat-square&labelColor=2B2F36&color=D97757&logoColor=0D1117" alt="Open to Software Engineering and AI/ML internships" />
 
 </div>
 
