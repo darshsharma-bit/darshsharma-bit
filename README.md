@@ -175,36 +175,33 @@ End-to-end mobile, embedded, and connectivity engineering.
 
 ### Languages
 
-![Python](https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=3776AB)
-![C++](https://img.shields.io/badge/C%2B%2B-0D1117?style=flat-square&logo=cplusplus&logoColor=00599C)
-![C](https://img.shields.io/badge/C-0D1117?style=flat-square&logo=c&logoColor=A8B9CC)
-![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=F7DF1E)
+<p>
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,javascript" alt="Python, C++, C, JavaScript" />
+</p>
 
 ### AI / LLM
 
-![Agentic AI](https://img.shields.io/badge/Agentic_AI-0D1117?style=flat-square&logo=probot&logoColor=FFFFFF)
-![LLM Engineering](https://img.shields.io/badge/LLM_Engineering-0D1117?style=flat-square&logo=openai&logoColor=FFFFFF)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-0D1117?style=flat-square&logo=googlegemini&logoColor=FFFFFF)
+<p>
+  <img src="https://skillicons.dev/icons?i=python,openai,gemini" alt="Python, OpenAI, Gemini" />
+</p>
 
 ### Frontend
 
-![React](https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-0D1117?style=flat-square&logo=vite&logoColor=646CFF)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0D1117?style=flat-square&logo=tailwindcss&logoColor=06B6D4)
-![Three.js](https://img.shields.io/badge/Three.js-0D1117?style=flat-square&logo=threedotjs&logoColor=FFFFFF)
-![Flutter](https://img.shields.io/badge/Flutter-0D1117?style=flat-square&logo=flutter&logoColor=02569B)
+<p>
+  <img src="https://skillicons.dev/icons?i=react,vite,tailwind,threejs,flutter" alt="React, Vite, Tailwind CSS, Three.js, Flutter" />
+</p>
 
 ### Embedded / IoT
 
-![Arduino](https://img.shields.io/badge/Arduino-0D1117?style=flat-square&logo=arduino&logoColor=00979D)
-![ESP32](https://img.shields.io/badge/ESP32-0D1117?style=flat-square&logo=espressif&logoColor=E7352C)
+<p>
+  <img src="https://skillicons.dev/icons?i=arduino,esp32" alt="Arduino, ESP32" />
+</p>
 
 ### Tools
 
-![Git](https://img.shields.io/badge/Git-0D1117?style=flat-square&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=FFFFFF)
-![Figma](https://img.shields.io/badge/Figma-0D1117?style=flat-square&logo=figma&logoColor=F24E1E)
-![VS Code](https://img.shields.io/badge/VS_Code-0D1117?style=flat-square&logo=visualstudiocode&logoColor=007ACC)
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,figma,vscode" alt="Git, GitHub, Figma, VS Code" />
+</p>
 
 ---
 
