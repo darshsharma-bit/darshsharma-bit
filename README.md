@@ -13,22 +13,23 @@
 
 <br />
 
+<div align="center">
+
 <a href="https://docs.google.com/document/d/1Uo-VAeQIOYU3MatsH8cjqAGp3eEsutsDrRbPl6k3hN0/edit?usp=sharing">
-  <img src="https://img.shields.io/badge/Resume-View-0D1117?style=for-the-badge&logo=readthedocs&logoColor=00C7A7" alt="View resume" />
+  <img src="https://img.shields.io/badge/RESUME-%E2%86%92-2B2F36?style=for-the-badge&logo=readthedocs&logoColor=D97757" alt="View resume" />
 </a>
 <a href="https://www.linkedin.com/in/darsh-sharma-7b3169361">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
+  <img src="https://img.shields.io/badge/LINKEDIN-%E2%86%97-2B2F36?style=for-the-badge&logo=linkedin&logoColor=E0E0E0" alt="Connect on LinkedIn" />
 </a>
 <a href="mailto:darsh1may.0@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact Darsh Sharma" />
+  <img src="https://img.shields.io/badge/EMAIL-%E2%9C%89-2B2F36?style=for-the-badge&logo=gmail&logoColor=D97757" alt="Contact Darsh Sharma" />
 </a>
 
 <br />
 
-<img
-  src="https://img.shields.io/badge/OPEN_TO-SWE_%7C_AI%2FML_INTERNSHIPS-00C7A7?style=for-the-badge&logo=github&logoColor=white"
-  alt="Open to Software Engineering and AI/ML internships"
-/>
+<img src="https://img.shields.io/badge/OPEN_TO-%E2%80%A2_SWE_%7C_AI%2FML_INTERNSHIPS-D97757?style=for-the-badge&logo=github&logoColor=0D1117" alt="Open to Software Engineering and AI/ML internships" />
+
+</div>
 
 </div>
 
