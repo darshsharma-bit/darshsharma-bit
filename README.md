@@ -274,11 +274,11 @@ I aim to move projects from **idea → architecture → implementation → verif
 
 ## Contribution Activity
 
-<div align="center">
+<p align="center">
 
-<img src="https://ghchart.rshah.org/2F81F7/darshsharma-bit" alt="GitHub contribution graph" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" />
 
-</div>
+</p>
 
 ---
 
