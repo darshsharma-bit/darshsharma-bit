@@ -308,10 +308,6 @@ Current areas of exploration:
 
 **Preferred roles:** `SWE` · `AI/ML Engineering` · `Developer Tools` · `Applied AI`
 
-**Target term:** `<!-- TODO: Summer 2027 / specific term -->`
-
-**Location:** `<!-- TODO: India / Remote / specific locations -->`
-
 </div>
 
 ---
