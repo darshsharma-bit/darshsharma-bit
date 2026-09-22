@@ -276,12 +276,7 @@ I aim to move projects from **idea → architecture → implementation → verif
 
 <div align="center">
 
-<a href="https://github.com/darshsharma-bit">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=darshsharma-bit&theme=github_dark"
-    alt="GitHub contribution activity"
-  />
-</a>
+<img src="https://ghchart.rshah.org/2F81F7/darshsharma-bit" alt="GitHub contribution graph" />
 
 </div>
 
