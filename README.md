@@ -1,6 +1,7 @@
+
 <div align="center">
-  <img src="./assets/darsh-banner.svg" alt="DARSH SHARMA — AGENTIC AI SYSTEMS BUILDER" width="820" />
-</div>
+
+<img src="./assets/darsh-banner.svg" alt="DARSH SHARMA — AGENTIC AI SYSTEMS BUILDER" width="100%" />
 
 ### Computer Science student building agentic AI systems, LLM tooling, and intelligent software.
 
@@ -8,25 +9,24 @@
 
 **Open to Software Engineering & AI/ML internships**
 
-<div align="center">
+<br />
 
-<p>
-  <a href="https://docs.google.com/document/d/1Uo-VAeQIOYU3MatsH8cjqAGp3eEsutsDrRbPl6k3hN0/edit?usp=sharing">
-    <img src="./assets/resume-icon.svg" alt="Resume" width="34" height="34" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/darsh-sharma-7b3169361">
-    <img src="https://cdn.jsdelivr.net/gh/dheereshag/coloured-icons@1.9.7/public/logos/social%20media/linkedin/linkedin.svg" alt="LinkedIn" height="34" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:darsh1may.0@gmail.com">
-    <img src="https://cdn.jsdelivr.net/gh/dheereshag/coloured-icons@1.9.7/public/logos/technology/gmail/gmail.svg" alt="Email" height="34" />
-  </a>
-</p>
+<a href="https://docs.google.com/document/d/1Uo-VAeQIOYU3MatsH8cjqAGp3eEsutsDrRbPl6k3hN0/edit?usp=sharing">
+  <img src="https://img.shields.io/badge/Resume-View-0D1117?style=for-the-badge&logo=readthedocs&logoColor=00C7A7" alt="View resume" />
+</a>
+<a href="https://www.linkedin.com/in/darsh-sharma-7b3169361">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
+</a>
+<a href="mailto:darsh1may.0@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact Darsh Sharma" />
+</a>
 
-<p>
-  <img src="./assets/open-to-internships.svg" alt="Open to SWE and AI/ML internships" width="280" />
-</p>
+<br />
+
+<img
+  src="https://img.shields.io/badge/OPEN_TO-SWE_%7C_AI%2FML_INTERNSHIPS-00C7A7?style=for-the-badge&logo=github&logoColor=white"
+  alt="Open to Software Engineering and AI/ML internships"
+/>
 
 </div>
 
@@ -172,37 +172,36 @@ End-to-end mobile, embedded, and connectivity engineering.
 
 ### Languages
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,javascript" alt="Python, C++, C, JavaScript" />
-</p>
+![Python](https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=3776AB)
+![C++](https://img.shields.io/badge/C%2B%2B-0D1117?style=flat-square&logo=cplusplus&logoColor=00599C)
+![C](https://img.shields.io/badge/C-0D1117?style=flat-square&logo=c&logoColor=A8B9CC)
+![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=F7DF1E)
 
 ### AI / LLM
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,openai,gemini" alt="Python, OpenAI, Gemini" />
-</p>
+![Agentic AI](https://img.shields.io/badge/Agentic_AI-0D1117?style=flat-square&logo=probot&logoColor=FFFFFF)
+![LLM Engineering](https://img.shields.io/badge/LLM_Engineering-0D1117?style=flat-square&logo=openai&logoColor=FFFFFF)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-0D1117?style=flat-square&logo=googlegemini&logoColor=FFFFFF)
 
 ### Frontend
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,vite,tailwind,threejs,flutter" alt="React, Vite, Tailwind CSS, Three.js, Flutter" />
-</p>
+![React](https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-0D1117?style=flat-square&logo=vite&logoColor=646CFF)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0D1117?style=flat-square&logo=tailwindcss&logoColor=06B6D4)
+![Three.js](https://img.shields.io/badge/Three.js-0D1117?style=flat-square&logo=threedotjs&logoColor=FFFFFF)
+![Flutter](https://img.shields.io/badge/Flutter-0D1117?style=flat-square&logo=flutter&logoColor=02569B)
 
 ### Embedded / IoT
 
-<p>
-  <img src="https://skillicons.dev/icons?i=arduino,esp32" alt="Arduino, ESP32" />
-</p>
+![Arduino](https://img.shields.io/badge/Arduino-0D1117?style=flat-square&logo=arduino&logoColor=00979D)
+![ESP32](https://img.shields.io/badge/ESP32-0D1117?style=flat-square&logo=espressif&logoColor=E7352C)
 
 ### Tools
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,figma,vscode" alt="Git, GitHub, Figma, VS Code" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/dheereshag/coloured-icons@1.9.7/public/logos/technology/chatgpt/chatgpt.svg" alt="ChatGPT" height="48" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/dheereshag/coloured-icons@1.9.7/public/logos/technology/claude/claude.svg" alt="Claude" height="48" />
-</p>
+![Git](https://img.shields.io/badge/Git-0D1117?style=flat-square&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=FFFFFF)
+![Figma](https://img.shields.io/badge/Figma-0D1117?style=flat-square&logo=figma&logoColor=F24E1E)
+![VS Code](https://img.shields.io/badge/VS_Code-0D1117?style=flat-square&logo=visualstudiocode&logoColor=007ACC)
 
 ---
 
@@ -293,20 +292,22 @@ Interested in **AI systems, developer tools, intelligent applications, and softw
 <div align="center">
 
 <a href="<!-- TODO: add resume URL -->">
-  <img src="https://cdn.jsdelivr.net/gh/dheereshag/coloured-icons@1.9.7/public/logos/technology/google/google.svg" alt="Resume" height="42" />
+  <img src="https://img.shields.io/badge/Resume-View-0D1117?style=for-the-badge&logo=readthedocs&logoColor=00C7A7" alt="View Darsh Sharma resume" />
 </a>
-&nbsp;&nbsp;
+
 <a href="https://www.linkedin.com/in/darsh-sharma-7b3169361">
-  <img src="https://cdn.jsdelivr.net/gh/dheereshag/coloured-icons@1.9.7/public/logos/social%20media/linkedin/linkedin.svg" alt="LinkedIn" height="42" />
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Darsh Sharma LinkedIn" />
 </a>
-&nbsp;&nbsp;
+
 <a href="mailto:darsh1may.0@gmail.com">
-  <img src="https://cdn.jsdelivr.net/gh/dheereshag/coloured-icons@1.9.7/public/logos/technology/gmail/gmail.svg" alt="Email" height="42" />
+  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Darsh Sharma" />
 </a>
-&nbsp;&nbsp;
+
 <a href="https://github.com/darshsharma-bit">
-  <img src="https://cdn.jsdelivr.net/gh/dheereshag/coloured-icons@1.9.7/public/logos/technology/github/github.svg" alt="GitHub" height="42" />
+  <img src="https://img.shields.io/badge/GitHub-Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="Darsh Sharma GitHub projects" />
 </a>
+
+</div>
 
 ---
 
